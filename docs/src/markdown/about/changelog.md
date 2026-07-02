@@ -3,6 +3,13 @@ icon: lucide/scroll-text
 ---
 # Changelog
 
+## 11.0.1
+
+-   **FIX**: BetterEm: Fix regex pattern inefficiencies. 
+-   **FIX**: Tilde: Fix regex pattern inefficiencies. 
+-   **FIX**: Caret: Fix regex pattern inefficiencies. 
+-   **FIX**: MagicLink: Fix regex pattern inefficiencies. 
+
 ## 11.0
 
 -   **BREAK**: B64: Restricts relative links to `base_path` by default. Can be disabled by setting new `restrict_path`
