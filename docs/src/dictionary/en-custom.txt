@@ -109,6 +109,7 @@ Stienstra
 StripHTML
 Stylesheets
 SuperFences
+Symlinks
 TODO
 Takhteyev
 Tasklist

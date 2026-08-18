@@ -238,6 +238,11 @@ we specified a snippet of `test.md` and we had a `base_path` of `#!py3 ["some/lo
 A specified snippet of `location/test.md` would not match. This is great if you have a one off file outside of your
 base directory, but you'd like to directly include it.
 
+
+> [!warning] Symlinks
+> Symlinks can be placed in the Snippets path and will be followed. If you do not want Snippets to follow Symlinks,
+> do not place them in the restricted path.
+
 ## URL Snippets
 
 URLs, if `url_download` is enabled, can also be used as snippets. Instead of using a file, simply specify a URL in
