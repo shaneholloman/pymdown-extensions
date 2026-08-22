@@ -7,6 +7,7 @@ icon: lucide/scroll-text
 
 -   **FIX**: InlineHilite: Improve performance of inline code matching.
 -   **FIX**: Keys: Fix regex pattern inefficiencies.
+-   **FIX**: Blocks.HTML: Fix backtracking in HTML extension.
 
 ## 11.0.1
 
