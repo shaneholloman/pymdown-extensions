@@ -3,6 +3,10 @@ icon: lucide/scroll-text
 ---
 # Changelog
 
+## 11.0.2
+
+-   **FIX**: InlineHilite: Improve performance of inline code matching.
+
 ## 11.0.1
 
 -   **FIX**: BetterEm: Fix regex pattern inefficiencies. 
