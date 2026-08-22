@@ -6,13 +6,14 @@ icon: lucide/scroll-text
 ## 11.0.2
 
 -   **FIX**: InlineHilite: Improve performance of inline code matching.
+-   **FIX**: Keys: Fix regex pattern inefficiencies.
 
 ## 11.0.1
 
--   **FIX**: BetterEm: Fix regex pattern inefficiencies. 
--   **FIX**: Tilde: Fix regex pattern inefficiencies. 
--   **FIX**: Caret: Fix regex pattern inefficiencies. 
--   **FIX**: MagicLink: Fix regex pattern inefficiencies. 
+-   **FIX**: BetterEm: Fix regex pattern inefficiencies.
+-   **FIX**: Tilde: Fix regex pattern inefficiencies.
+-   **FIX**: Caret: Fix regex pattern inefficiencies.
+-   **FIX**: MagicLink: Fix regex pattern inefficiencies.
 
 ## 11.0
 
